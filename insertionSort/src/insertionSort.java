@@ -1,4 +1,4 @@
-import java.util.package;
+
 public class insertionSort {
 
     public static  void main(String[] args){
@@ -11,7 +11,11 @@ public class insertionSort {
 
         }
      }
-    public static void insertionSort(int[] arr){
+    private static void insertionSort(int[] arr) {
+		// TODO Auto-generated method stub
+		
+	}
+	public insertionSort(int[] arr){
 
     int len = arr.length;
     for(int j=1;j<len;j++){

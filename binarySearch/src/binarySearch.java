@@ -1,3 +1,4 @@
+
 public class binarySearch {
 
     public static  void main(String[] args){
@@ -24,3 +25,13 @@ public static void binarySearch(int[] arr, int start, int key, int length){
 
                 length=midValue-1;
             }
+            midValue = (start+length)/2;
+        }
+            if(start>length){
+
+                System.out.println("Element is not found");
+            }
+
+}
+
+}

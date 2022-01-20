@@ -1,4 +1,4 @@
-package com.sl.Assignments.PracticeProject;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class BugFix {
 	public static void main(String[] args) {
-        /System.out.println("Hello World!");/
+        System.out.println("Hello World!");
         System.out.println("\n**************\n");
         System.out.println("\tWelcome to TheDesk \n");
         System.out.println("**************");
